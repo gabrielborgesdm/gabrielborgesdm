@@ -27,10 +27,10 @@
 <hr />
 <div>
   <a href="https://www.linkedin.com/in/borgesmoraes/" target="_blank">
-      <img align="center" alt="badge-linkedin" src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
+      <img align="center" alt="badge-linkedin" height="30" src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
     </a>
     <a href="https://twitter.com/Gabriel09914815" target="_blank">
-      <img align="center" alt="badge-twitter" src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'>
+      <img align="center" alt="badge-twitter" height="30" src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'>
     </a>
     <a href="https://twitter.com/Gabriel09914815" target="_blank">
       <img align="center" alt="badge-stack-overflow" height="30" src='https://aleen42.github.io/badges/src/stackoverflow.svg'>

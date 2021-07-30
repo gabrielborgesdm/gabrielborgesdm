@@ -9,7 +9,7 @@
   
   <img align="center" alt="badge-javascript" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg'>
   <img align="center" alt="badge-typescript" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg'>
-  <img align="center" alt="badge-node" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-plain.svg'>
+  <img align="center" alt="badge-node" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/node-plain.svg'>
   <img align="center" alt="badge-react" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-plain.svg'>
   <img align="center" alt="badge-kotlin" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg'>
 </div>

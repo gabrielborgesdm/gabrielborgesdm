@@ -34,4 +34,3 @@
     
 </div>
 <hr />
-![Snake animation](https://github.com/gabrielborgesdm/)

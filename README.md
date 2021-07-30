@@ -33,6 +33,6 @@
       <img align="center" alt="badge-twitter" src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'>
     </a>
     <a href="https://twitter.com/Gabriel09914815" target="_blank">
-      <img align="center" alt="badge-stack-overflow" src='https://aleen42.github.io/badges/src/stackoverflow.svg'>
+      <img align="center" alt="badge-stack-overflow" height="30" src='https://aleen42.github.io/badges/src/stackoverflow.svg'>
     </a>
  </div>

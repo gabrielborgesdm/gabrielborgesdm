@@ -21,7 +21,7 @@
     <a href="https://github.com/gabrielborgesdm/gabrielborgesdm">
       <img align="center" alt="badge-kotlin" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg'>
     </a>
-    ---
+    &nbsp; &nbsp; &nbsp; &nbsp;
     <a href="https://stackoverflow.com/users/9489001/gabriel-borges" target="_blank">
       <img align="center" alt="badge-stack-overflow" height="30" src='https://aleen42.github.io/badges/src/stackoverflow.svg'>
     </a>
@@ -34,3 +34,5 @@
     
 </div>
 <hr />
+
+![Snake animation](https://github.com/gabrielborgesdm/gabrielborgesdm/blob/output/github-contribution-grid-snake.svg)

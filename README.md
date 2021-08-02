@@ -22,7 +22,7 @@
       <img align="center" alt="badge-kotlin" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg'>
     </a>
     <a href="https://github.com/gabrielborgesdm/gabrielborgesdm">
-      <img align="center" alt="badge-java" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg'>
+      <img align="center" alt="badge-java" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'>
     </a>
     &nbsp;
     <a href="https://stackoverflow.com/users/9489001/gabriel-borges" target="_blank">

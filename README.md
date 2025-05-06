@@ -1,15 +1,14 @@
+**Full stack Developer**
+
 I’m a proactive software engineer with strong experience in designing and delivering scalable, high-quality applications. I specialize in JavaScript and TypeScript, and I’m well-versed in a broad range of frameworks and tools across backend, frontend, and mobile development.
 
 I thrive in fast-paced environments where I can solve complex problems, translate business needs into technical solutions, and collaborate across teams. Whether working with Node.js on the server or React and React Native on the client, I focus on building robust, maintainable systems that align with business goals and industry best practices.
 
-🔧 Core Skills & Tools
-*Backend:* Node.js, Express, NestJS, FeathersJS, SQL/NoSQL
-
-*Frontend & Mobile:* React, Next.js, React Native, Redux, React Query
-
-*DevOps:* Docker, Kubernetes, GitHub Actions
-
-*Methodologies:* Agile (Scrum, Kanban)
+### 🔧 Core Skills & Tools
+**Backend:** Node.js, Express, NestJS, FeathersJS, SQL/NoSQL \
+**Frontend & Mobile:** React, Next.js, React Native, Redux, React Query \
+**DevOps:** Docker, Kubernetes, GitHub Actions \
+**Methodologies:** Agile (Scrum, Kanban)
 
 <div style="display: inline-block">
   <br />

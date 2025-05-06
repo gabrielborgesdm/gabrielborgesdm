@@ -1,4 +1,4 @@
-### Hey there, I'm Gabe!
+### Hey there!
 
 <div style="display: inline-block">
   <br />

@@ -6,7 +6,7 @@ I thrive in fast-paced environments where I can solve complex problems, translat
 
 ### 🔧 Core Skills & Tools
 **Backend:** Node.js, Express, NestJS, FeathersJS, SQL/NoSQL \
-**Frontend & Mobile:** React, Next.js, React Native, Redux, React Query \
+**Frontend & Mobile:** React, Next.js, React Native, React Query \
 **DevOps:** Docker, Kubernetes, GitHub Actions \
 **Methodologies:** Agile (Scrum, Kanban)
 

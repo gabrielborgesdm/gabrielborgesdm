@@ -1,13 +1,11 @@
-**Full stack Developer**
+👋 Hey there! I'm Gabriel — I've been into software development since 2016. I love trying different tech stacks and hacking together all sorts of side projects just for fun.
 
-I'm a software engineer with strong experience in building scalable, high-quality applications. I specialize in JavaScript and work comfortably across the stack, using a wide range of tools and frameworks.
+Lately, I've been building my own AI Assistant Studio — a local-first, open-source desktop app that runs LLMs using Ollama. It includes RAG search, assistant customization, and a bunch of other features I'm adding in my spare time.
 
-I thrive in fast-paced environments, solving complex problems, translating business needs into technical solutions, and collaborating effectively across teams. Whether it's Node.js on the backend or React on the frontend, I focus on building robust, maintainable systems that support business goals and follow industry best practices.
+It's available for Linux and Windows (and kind of for macOS — I don’t have a Mac to generate proper builds), so feel free to check it out and let me know what you think
 
-### 🔧 Core Skills & Tools
-**Backend:** Node.js, Express, NestJS, FeathersJS, SQL/NoSQL \
-**Frontend & Mobile:** React, Next.js, React Native, React Query \
-**DevOps:** Docker, Kubernetes, GitHub Actions \
+[![Check out AI Assistant Studio](https://img.shields.io/badge/AI%20Assistant%20Studio-%F0%9F%A7%91%E2%80%8D%F0%9F%A4%96%20Open%20Source-brightgreen?style=for-the-badge)](https://github.com/gabrielborgesdm/ai-assistant-studio)
+
 
 <div style="display: inline-block">
   <br />
